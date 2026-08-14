@@ -1,0 +1,8 @@
+baseURL = "https://DaYangwk.github.io/"
+languageCode = "zh-cn"
+title = "汪康的技术笔记"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
